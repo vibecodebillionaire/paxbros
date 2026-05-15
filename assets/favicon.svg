@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Paxbros">
+  <rect width="64" height="64" fill="#151515" />
+  <path
+    fill="#ffffff"
+    d="M18 49V15h16.1c7.5 0 12.5 4.3 12.5 10.9 0 6.8-5.1 11.2-12.8 11.2h-7.4V49H18Zm8.4-18.7h6.6c3.2 0 5.1-1.6 5.1-4.3s-1.9-4.2-5.1-4.2h-6.6v8.5Z"
+  />
+  <rect x="44" y="44" width="6" height="6" fill="#b1842d" />
+</svg>
